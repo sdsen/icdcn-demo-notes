@@ -68,7 +68,7 @@ Vehicular Networks, Smart Grids and Smart City Applications
 
 Networking technologies
 
-data and artificial intelligence for Healthcare
+Data and artificial intelligence for Healthcare
 
 **Submission Guidelines:**
 
@@ -84,12 +84,12 @@ At least one author of each accepted demo must register for the conference and b
 
 **Important Dates and Submission Link:**
 
-Submission Deadline: September 24, 2023, 11:59:59pm AoE
+Submission Deadline: September 24, 2022, 11:59:59pm AoE
 
-Notification of acceptance: October 14, 2023, 11:59:59pm AoE
+Notification of acceptance: October 14, 2022, 11:59:59pm AoE
 
-Camera-ready Submission: October 31, 2023, 11:59:59pm AoE
+Camera-ready Submission: October 31, 2022, 11:59:59pm AoE 
 
-**Submission site: XXX**
+**Submission site: [here](https://easychair.org/conferences/?conf=icdcn23)**
 
 Please feel free to reach out to the demo chairs at Sayandeep Sen sayandes@in.ibm.com and Vaskar raychoudhury raychov@miamioh.edu for any queries.
