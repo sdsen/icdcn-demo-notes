@@ -92,4 +92,4 @@ Camera-ready Submission: October 31, 2022, 11:59:59pm AoE
 
 **Submission site: [here](https://easychair.org/conferences/?conf=icdcn23)**
 
-Please feel free to reach out to the demo chairs at Sayandeep Sen sayandes@in.ibm.com and Vaskar raychoudhury raychov@miamioh.edu for any queries.
+Please feel free to reach out to the demo chairs at Sayandeep Sen sayandes@in.ibm.com and Vaskar Raychoudhury raychov@miamioh.edu for any queries.
